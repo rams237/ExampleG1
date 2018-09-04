@@ -5,6 +5,8 @@ I am new user added -- admin
 I am going to change the file
 =======
 Testing conflict
+This is for development branch
+
 
 >>>>>>> 5e8b95cab3306e8bf8553ffe35089aa69a61d779
 
